@@ -1,5 +1,12 @@
 # Sophie's Value Chain WebApp Project Development Repo
 
+<!-- toc -->
+
+- [Project Charter](#project-charter)
+- [Project Backlog](#project-backlog)
+
+<!-- tocstop -->
+
 ## Project Charter 
 
 ### **Vision**:
