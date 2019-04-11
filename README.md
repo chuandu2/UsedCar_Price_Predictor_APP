@@ -1,5 +1,9 @@
 # Sophie's Value Chain WebApp Project Development Repo
 
+* **Developer**: [Sophie Du](https://github.com/chuandu2)
+* **QA**: [Kejin Qian](https://github.com/kejin-qian)
+----------------------------------------------------------------
+
 <!-- toc -->
 
 - [Project Charter](#project-charter)
