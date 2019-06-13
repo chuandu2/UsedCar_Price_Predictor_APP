@@ -1,0 +1,22 @@
+get_data:
+  get_data:
+    url: 'https://raw.githubusercontent.com/chuandu2/cars_data/master/autos.csv'
+
+generate_features:
+  generate_features:
+    csv_file: 'data/autos.csv'
+
+train_model:
+  train_model:
+    features: 'data/features.csv'
+    save_best_model_obj: 'models/price_prediction_model.pkl'
+
+evaluate_model:
+  evaluate_model:
+    path_to_model: 'models/price_prediction_model.pkl'
+    features: 'data/features.csv'
+
+prediction:
+  prediction:
+    path_to_model: 'models/price_prediction_model.pkl'
+    sample_data: 'data/sample_usedCar.csv'

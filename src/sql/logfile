@@ -1,0 +1,18 @@
+2019-05-12 18:01:33,643 INFO     RDS:False
+2019-05-12 18:01:33,662 INFO     database created
+2019-05-12 18:11:56,346 INFO     RDS:False
+2019-05-12 18:11:56,360 INFO     database created
+2019-05-12 18:11:56,366 INFO     Data added
+2019-05-12 18:11:56,372 INFO        id yearOfRegistration powerPS kilometer gearbox_feature fuelType_feature  \
+0   1               2006     150    125000               1                1   
+
+  predicted_price  
+0            3200  
+2019-05-12 18:13:53,962 INFO     RDS:False
+2019-05-12 18:13:53,981 INFO     database created
+2019-05-12 18:13:53,985 INFO     Data added
+2019-05-12 18:13:53,989 INFO        id yearOfRegistration powerPS kilometer gearbox_feature fuelType_feature  \
+0   1               2006     150    125000               1                1   
+
+  predicted_price  
+0            3200  
