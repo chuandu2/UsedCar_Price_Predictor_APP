@@ -1,5 +1,5 @@
 ## **Developer**: [Sophie Du](https://github.com/chuandu2)
-### **QA**: Kejin (Karen) Qian
+### **QA**: Karen Qian
 ----------------------------------------------------------------
 
 The APP is running on http://18.222.209.147:3000/ until June 16, 2019 (Try it without cloning this repo before the date.)
