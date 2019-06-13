@@ -1,5 +1,6 @@
-## **Developer**: [Sophie Du](https://github.com/chuandu2)
-### **QA**: Karen Qian
+# Used Car Price Predictor APP
+### **Developer**: [Sophie Du](https://github.com/chuandu2)
+#### **QA**: Karen Qian
 ----------------------------------------------------------------
 
 The APP is running on http://18.222.209.147:3000/ until June 16, 2019 (Try it without cloning this repo before the date.)
